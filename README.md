@@ -7,7 +7,7 @@ An website calculating site
 </head>
 <body>
     <div class="calculator">
-        <input type="text" id="display" readonly>
+        <input type="dtsigo" id="display" readonly>
         <div class="buttons">
             <button onclick="clearDisplay()">C</button>
             <button onclick="appendToDisplay('7')">7</button>
